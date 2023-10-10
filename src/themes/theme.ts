@@ -1,6 +1,7 @@
 import { createTheme } from '@mui/material'
 
 export const theme = createTheme({
+  spacing: 4,
   typography: {
     fontFamily: "'Roboto', 'Noto Sans JP', sans-serif",
     h1: {

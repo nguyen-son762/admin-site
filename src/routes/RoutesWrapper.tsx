@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 
-import DefaultLayout from '@/layouts/DefaultLayout'
+import DefaultLayout from '@/layouts/DefaultLayout/DefaultLayout'
 import DashboardScreen from '@/screens/DashboardScreen/DashboardScreen'
 import LoginScreen from '@/screens/LoginScreen/LoginScreen'
 

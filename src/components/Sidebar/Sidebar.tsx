@@ -11,7 +11,9 @@ const Sidebar = () => {
       sx={{
         '& .MuiDrawer-paper': {
           width: 260,
-          boxSizing: 'border-box'
+          boxSizing: 'border-box',
+          marginTop: 16,
+          borderRight: 'unset'
         }
       }}
       variant='persistent'
